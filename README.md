@@ -6,9 +6,6 @@ The Cooking Application is a user-friendly mobile app that leverages the power o
 
 Hungry for a culinary adventure? You're in the right place! Our Cooking App, powered by the Spoonacular API, is your kitchen companion, ready to make your cooking journey a whole lot tastier.
 
-### Check Out the App in Action
-
-Want to see how it works? Watch my youtube demo on [YouTube](https://www.youtube.com/watch?v=83ALOBbmoWk&ab_channel=lorenzalvin). Please note that in the video, you might see loaded recipes because of an active internet connection.
 
 ## What's Cooking?
 
@@ -39,16 +36,12 @@ We've made it super easy to move around. The "Home" button in the "RecipeActivit
 Customize your recipe hunt with our menu spinner. Pick from a variety of tags that sort recipes into categories like main courses, side dishes, desserts, appetizers, salads, and more. It's like having a personal food filter to discover dishes that match your cravings.
 
 
-## Video Demo 📽️
-
-Want to see the Cooking App in action? Check out our [video demo](https://www.youtube.com/watch?v=83ALOBbmoWk&ab_channel=lorenzalvin). Please note that the demo may show loaded recipes due to an active internet connection.
-
 ## How to Use 📱
 
 Let's get cooking with the Cooking App:
 
 1. **Clone the Repository**: Start by cloning this repository to your local machine:
-   git clone https://github.com/YuhanPizza/Cooking-App.git
+   git clone https://github.com/bhargava-sai-krishna/AnnaPoorna-Hastam
 
 2. **Open the Project**: Fire up Android Studio and open the Cooking App project.
 
@@ -80,3 +73,6 @@ Let's peek behind the scenes of the Cooking App:
 In a nutshell, our Cooking App is here to spice up your cooking game. Whether you're a seasoned chef or just starting your culinary journey, our user-friendly interface, integration with the Spoonacular API, and innovative features are here to make your time in the kitchen a flavor-packed delight. Get ready to elevate your cooking experience with our app and discover a world of taste and inspiration!
 
 Feel free to explore the code files to gain a deeper understanding of how the Cooking App works. Happy cooking! 🍽️
+
+
+#### <b>Note</b>: The Project is no Longer being maintained by the contributers as it was a University Semester Project.
